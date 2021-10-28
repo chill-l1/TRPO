@@ -2,7 +2,7 @@
 name: User Story
 about: User Story
 title: User Story
-labels: ТРПО
+labels: User Story, ТРПО
 assignees: chill-l1
 
 ---
